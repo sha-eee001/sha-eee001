@@ -30,50 +30,27 @@
 
 ### 🛠️ Languages & Tools:
 <div align="left">
-  
+
 <table>
 <tr>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="40" height="40" alt=".NET Core"/></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" width="40" height="40" alt="TypeScript"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></td>
-</tr>
-<tr>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></td>
-  <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="40" height="40" alt="Photoshop"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" alt="Illustrator"/></td>
-</tr>
-<tr>
-  <td><img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="40" height="40" alt="Electron"/></td>
-<td><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40" alt="Arduino"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40" alt="Kubernetes"/></td>
-  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" alt="Django"/></td>
+  <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></td>
 </tr>
 </table>
 
 ---
-
-### 🗄️ Databases & ORMs:
+### 🗄️ Databases:
 <table>
 <tr>
-  <td><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/></td>
   <td><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="40" height="40" alt="MySQL"/></td>
   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/></td>
-  <td><img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" width="40" height="40" alt="Redis"/></td>
-  <td><img src="https://www.remoterocketship.com/images/blog/Entity%20Framework-icon-for-blog.jpg" width="40" height="40" alt="Entity Framework"/></td>
-  <td><img src="https://avatars.githubusercontent.com/u/83077457?v=4" width="40" height="40" alt="Entity Framework"/></td>
 </tr>
 </table>
-
 </div>
 
 ---
-
-<img src="https://github.com/anasmalikp/anasmalikp/raw/main/footer.svg" width="100%" alt="footer banner" />
+<img src="https://github.com/sha-eee001/sha-eee001/raw/main/footer.svg" width="100%" alt="footer banner" />
