@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Anas Malik</h1>
-<h3 align="center">A Passionate Full Stack .NET Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Alan Shaji</h1>
+<h3 align="center">A Passionate Full Stack Python Developer from India</h3>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=anasmalikp&theme=chartreuse-dark)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anasmalikp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sha-eee001&theme=chartreuse-dark)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-eee001&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=anasmalikp&label=Profile%20views&color=0e75b6&style=flat" alt="anasmalikp" />
+  <img src="https://komarev.com/ghpvc/?username=sha-eee001&label=Profile%20views&color=0e75b6&style=flat" alt="Alan Shaji" />
 </p>
 
 - 🔭 I’m currently working as a Software Engineer at **Logifex IT Solutions**
